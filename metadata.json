@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Student Organization communication platform with interactive scheduling, committee workspaces, and dues secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
